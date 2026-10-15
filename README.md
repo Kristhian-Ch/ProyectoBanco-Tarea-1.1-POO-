@@ -16,7 +16,7 @@ Clic derecho en el proyecto y depues darle a Clean and Build.
 Clic derecho en el archivo con el main y depues darle a Run File.
 
 Autor
-Kristhian Jair Chevez Madridi
+Kristhian Jair Chevez Madrid
 Numero de Cuenta: 20262001278
 
 
